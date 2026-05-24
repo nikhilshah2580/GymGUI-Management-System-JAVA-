@@ -27,7 +27,6 @@ public class RegularMember extends GymMember {
             String gender, String DOB,
             String membershipStartDate,
             String referralSource) {
-                
         // Call parent class constructor
         super(id, name, location, phone, email,
                 gender, DOB, membershipStartDate);
